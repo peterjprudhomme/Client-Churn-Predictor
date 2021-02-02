@@ -5,6 +5,8 @@ Here is a video demonstration of the Streamlit app for this project: [Streamlit 
 The goal of this project was to correctly identify clients who were likely to churn (i.e. close their accounts) at a bank. The client data was downloaded from kaggle
 [here](https://www.kaggle.com/santoshd3/bank-customers).
 
+**Please view the powerpoint slides PDF file for an in depth overview of this project**
+
 ## How it works
 
 The notebook file contains all the EDA and the model creation. Random Forest was determined to generate the most accurate results based on the f-score with an adjusted threshold to favor model recall. The data was upsampled to  balance the target variable of 'Exited'.
