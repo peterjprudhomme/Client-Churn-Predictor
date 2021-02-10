@@ -16,3 +16,36 @@ The file **streamlit_app.py** a streamlit app to facilitate easy upload and mode
 ## Results
 
 Final model recall of 92% and precision of 30%. Please see the powerpoint presentation in this repo for a full analysis of this project.
+
+## Exploratory Data Analysis Graphics
+
+![Countries](Graphics/Country_bar.png)
+
+<br>
+<br>
+<br>
+<br>
+
+![Ages](Graphics/age_bar.png)
+
+<br>
+<br>
+<br>
+<br>
+
+![Genders](Graphics/gender_bar.png)
+
+<br>
+<br>
+<br>
+<br>
+
+![r2feats](Graphics/r2feats.png)
+
+<br>
+<br>
+<br>
+<br>
+
+![fbetaplot](Graphics/fbetaplot.png)
+
